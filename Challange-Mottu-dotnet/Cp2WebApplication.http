@@ -1,0 +1,6 @@
+@Cp2WebApplication_HostAddress = http://localhost:5086
+
+GET {{Cp2WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
