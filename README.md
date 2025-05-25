@@ -60,6 +60,7 @@ dotnet run
 Acesse via Swagger:  
 ```
 http://{IP_PÚBLICO}:5000/swagger
+       {ou localhost}
 ```
 
 ## 🌐 Endpoints
